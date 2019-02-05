@@ -5,4 +5,6 @@ I have used popular classification algorithms to classify amazon review as posit
 I have used only very few points for learning purpose only.
 Most of the code is not executed in these files because of computational power limitations but is being verified earlier and is correct.
 
+Soon I will be updating my repository with models built using more datapoints
+
 Thanks to sklearn, eli5, aaic team.
